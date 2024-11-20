@@ -1,0 +1,3 @@
+C:/Users/tadie/OneDrive/Documentos/ProjetoFinal/out/build/x64-Debug/CMakeFiles/ProjetoFinal.dir
+C:/Users/tadie/OneDrive/Documentos/ProjetoFinal/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/tadie/OneDrive/Documentos/ProjetoFinal/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
